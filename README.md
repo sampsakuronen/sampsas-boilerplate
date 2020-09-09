@@ -4,12 +4,13 @@
 
 This is my boilerplate for a modern backend project. It's the basis for my hobby projects.
 
-Pick your own frontend poison and add a database if neccessary.
+Pick your own frontend poison.
 
 - TypeScript
 - [gts](https://github.com/google/gts) (eslint & prettier)
 - node, express, [io-ts](https://github.com/gcanti/io-ts), [typera](https://github.com/akheron/typera)
 - jest, supertest
+- postgres, postgres-migrations
 - Github Actions
 
 ## Prerequisites
