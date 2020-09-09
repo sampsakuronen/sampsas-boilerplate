@@ -1,8 +1,8 @@
 // eslint-disable-next-line node/no-unpublished-import
 import * as request from 'supertest';
 
-import environment from '../environment';
-import {app} from '../app';
+import environment from '../../src/environment';
+import {app} from '../../src/app';
 
 describe('Test the user route', () => {
   describe('PUT', () => {
