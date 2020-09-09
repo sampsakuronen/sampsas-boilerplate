@@ -1,0 +1,11 @@
+{
+  "name": "Sampsa's boilerplate",
+  "repository": "https://github.com/sampsakuronen/sampsas-boilerplate",
+  "website": "https://github.com/sampsakuronen/sampsas-boilerplate",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}

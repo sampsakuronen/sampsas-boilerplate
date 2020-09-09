@@ -4,7 +4,7 @@
 
 This is my boilerplate for a modern backend project. It's the basis for my hobby projects.
 
-Pick your own frontend poison.
+Pick your own frontend poison and add a database if neccessary.
 
 - TypeScript
 - [gts](https://github.com/google/gts) (eslint & prettier)
@@ -21,3 +21,5 @@ Pick your own frontend poison.
 
     n auto
     npm run watch | npm start
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
