@@ -17,6 +17,8 @@ Pick your own frontend poison.
 
 - Install `n` for node version management (https://github.com/tj/n).
 - Configure your IDE to format on save.
+- Fill in `.env` based on `.env_example`
+- Install `postgres` and create a database with a name you defined in `.env`
 
 ## Developing
 
