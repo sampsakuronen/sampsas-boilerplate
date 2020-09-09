@@ -17,8 +17,7 @@ Pick your own frontend poison.
 - Install `n` for node version management (https://github.com/tj/n).
 - Configure your IDE to format on save.
 
-## Running
+## Developing
 
     n auto
-    npm start
-    (watch to be added)
+    npm run watch | npm start
