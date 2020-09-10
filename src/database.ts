@@ -1,6 +1,11 @@
 import {Pool} from 'pg';
 
-const pool = new Pool();
+import environment from './environment';
+
+const pool = new Pool({
+  connectionString: environment.database.url,
+  ssl: environment.isSSL ? false : {rejectUnauthorized: false},
+});
 
 async function getTime() {
   return pool
