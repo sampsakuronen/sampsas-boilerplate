@@ -29,5 +29,6 @@ Pick your own frontend poison.
 ## Production
 
 - Migrations are run upon `npm start`. This is probably too opinionated for you.
+- Depending on your environment the development dependencies might not be installed and thus not available for `npm run compile`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
