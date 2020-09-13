@@ -24,5 +24,10 @@ Pick your own frontend poison.
 
     n auto
     npm run watch | npm start
+    (npm run migrate)
+
+## Production
+
+- Migrations are run upon `npm start`. This is probably too opinionated for you.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
