@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "migrate": "ts-node-dev migrations/migrate.ts",
-    "start": "npm run migrate && npm run compile && node build/index.js",
+    "start": "npm run migrate && npm run compile && node build/src/index.js",
     "watch": "ts-node-dev --respawn --transpile-only src/index.ts",
     "test": "jest",
     "check": "gts check",
