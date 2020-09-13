@@ -24,7 +24,12 @@ Pick your own frontend poison.
 
     n auto
     npm run watch | npm start
-    (npm run migrate)
+
+### Migrations
+
+1. Decide how you want to do sequential numbering: 1...x or using a timestamp
+2. Create a new `.sql` in `migrations/sql`
+3. `npm run migrate` (also runs as part of `npm start`)
 
 ## Production
 
