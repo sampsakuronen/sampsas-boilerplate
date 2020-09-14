@@ -60,6 +60,6 @@
     "io-ts": "2.2.10",
     "pg": "8.3.3",
     "postgres-migrations": "5.0.0",
-    "typera-express": "0.7.2"
+    "typera-express": "0.7.3"
   }
 }
