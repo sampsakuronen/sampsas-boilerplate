@@ -57,7 +57,7 @@
     "dotenv": "8.2.0",
     "express": "4.17.1",
     "helmet": "4.2.0",
-    "io-ts": "2.2.11",
+    "io-ts": "2.2.12",
     "pg": "8.4.2",
     "postgres-migrations": "5.1.0",
     "typera-express": "1.0.0"
