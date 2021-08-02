@@ -38,7 +38,7 @@
   "devDependencies": {
     "@types/express": "4.17.13",
     "@types/jest": "26.0.24",
-    "@types/node": "16.4.3",
+    "@types/node": "16.4.10",
     "@types/pg": "8.6.1",
     "@types/superagent": "4.1.12",
     "@types/compression": "1.7.1",
