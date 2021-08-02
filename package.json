@@ -58,7 +58,7 @@
     "express": "4.17.1",
     "helmet": "4.6.0",
     "io-ts": "2.2.16",
-    "pg": "8.6.0",
+    "pg": "8.7.1",
     "postgres-migrations": "5.3.0",
     "typera-express": "1.0.0"
   }
